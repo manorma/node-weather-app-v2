@@ -17,6 +17,12 @@ body{
 .main-content{
     flex-grow: 1;
 }
+
+.weather-data{
+    display: flex;
+    flex-direction: column;
+}
+
 footer{
     color: #888888;
     border-top: 1px solid #eeeeee;
